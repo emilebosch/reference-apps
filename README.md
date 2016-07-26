@@ -6,6 +6,9 @@ Ember
 - https://github.com/HospitalRun/hospitalrun-frontend
 - https://github.com/rancher/ui
 - https://github.com/hashicorp/consul/tree/master/ui
+- https://github.com/balanced/balanced-dashboard
+- https://github.com/gcollazo/ember-cli-addon-search
+- https://github.com/chancancode/hn-reader
 
 Ember Electron
 
