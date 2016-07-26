@@ -1,7 +1,11 @@
 # reference-apps
 
 Ember
-- 
+
+- https://github.com/travis-ci/travis-web
+- https://github.com/HospitalRun/hospitalrun-frontend
+- https://github.com/rancher/ui
+- https://github.com/hashicorp/consul/tree/master/ui
 
 Rails
 
