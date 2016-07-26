@@ -10,6 +10,11 @@ Ember
 - https://github.com/gcollazo/ember-cli-addon-search
 - https://github.com/chancancode/hn-reader
 - https://github.com/hummingbird-me/hummingbird
+- https://github.com/huboard/huboard-web
+
+Source:
+
+https://www.icicletech.com/blog/16-opensource-emberjs-projects-to-learn-from
 
 Ember Electron
 
