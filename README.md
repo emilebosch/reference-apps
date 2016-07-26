@@ -28,3 +28,7 @@ Rails
 - https://github.com/sharetribe/sharetribe
 - https://github.com/assemblymade/meta
 - https://github.com/lockitron/selfstarter
+
+React
+
+- https://www.icicletech.com/blog/16-opensource-reactjs-projects-to-learn-from
