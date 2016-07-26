@@ -7,6 +7,10 @@ Ember
 - https://github.com/rancher/ui
 - https://github.com/hashicorp/consul/tree/master/ui
 
+Ember Electron
+
+- https://github.com/tryghost/Ghost-Desktop
+
 Rails
 
 - https://github.com/catarse/catarse
