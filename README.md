@@ -9,6 +9,7 @@ Ember
 - https://github.com/balanced/balanced-dashboard
 - https://github.com/gcollazo/ember-cli-addon-search
 - https://github.com/chancancode/hn-reader
+- https://github.com/hummingbird-me/hummingbird
 
 Ember Electron
 
